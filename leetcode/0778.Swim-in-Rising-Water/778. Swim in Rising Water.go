@@ -1,7 +1,7 @@
 package leetcode
 
 import (
-	"github.com/halfrost/LeetCode-Go/template"
+	"github.com/kebukeYi/algorithm_example/template"
 )
 
 // 解法一 DFS + 二分

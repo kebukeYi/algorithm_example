@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/halfrost/LeetCode-Go/structures"
+	"github.com/kebukeYi/algorithm_example/structures"
 )
 
 type TreeNode = structures.TreeNode

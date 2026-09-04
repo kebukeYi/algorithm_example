@@ -3,7 +3,7 @@ package leetcode
 import (
 	"container/heap"
 
-	"github.com/halfrost/LeetCode-Go/structures"
+	"github.com/kebukeYi/algorithm_example/structures"
 )
 
 // TreeNode define

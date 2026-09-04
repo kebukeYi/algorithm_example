@@ -1,6 +1,6 @@
 package leetcode
 
-import "github.com/halfrost/LeetCode-Go/structures"
+import "github.com/kebukeYi/algorithm_example/structures"
 
 // TreeNode define
 type TreeNode = structures.TreeNode

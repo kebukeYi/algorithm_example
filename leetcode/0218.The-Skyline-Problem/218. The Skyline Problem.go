@@ -3,7 +3,7 @@ package leetcode
 import (
 	"sort"
 
-	"github.com/halfrost/LeetCode-Go/template"
+	"github.com/kebukeYi/algorithm_example/template"
 )
 
 // 解法一 树状数组，时间复杂度 O(n log n)

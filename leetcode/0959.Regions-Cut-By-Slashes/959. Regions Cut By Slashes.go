@@ -1,7 +1,7 @@
 package leetcode
 
 import (
-	"github.com/halfrost/LeetCode-Go/template"
+	"github.com/kebukeYi/algorithm_example/template"
 )
 
 func regionsBySlashes(grid []string) int {

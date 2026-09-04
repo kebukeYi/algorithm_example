@@ -3,7 +3,7 @@ package leetcode
 import (
 	"math/rand"
 
-	"github.com/halfrost/LeetCode-Go/structures"
+	"github.com/kebukeYi/algorithm_example/structures"
 )
 
 // ListNode define
